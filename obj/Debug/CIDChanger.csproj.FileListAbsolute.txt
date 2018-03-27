@@ -1,0 +1,12 @@
+C:\Users\FST_F\source\repos\CIDChanger\CIDChanger\bin\Debug\CIDChanger.exe.config
+C:\Users\FST_F\source\repos\CIDChanger\CIDChanger\bin\Debug\CIDChanger.exe
+C:\Users\FST_F\source\repos\CIDChanger\CIDChanger\bin\Debug\CIDChanger.pdb
+C:\Users\FST_F\source\repos\CIDChanger\CIDChanger\bin\Debug\MetroFramework.dll
+C:\Users\FST_F\source\repos\CIDChanger\CIDChanger\bin\Debug\PS3Lib.dll
+C:\Users\FST_F\source\repos\CIDChanger\CIDChanger\obj\Debug\CIDChanger.csprojResolveAssemblyReference.cache
+C:\Users\FST_F\source\repos\CIDChanger\CIDChanger\obj\Debug\CIDChanger.MainForm.resources
+C:\Users\FST_F\source\repos\CIDChanger\CIDChanger\obj\Debug\CIDChanger.Properties.Resources.resources
+C:\Users\FST_F\source\repos\CIDChanger\CIDChanger\obj\Debug\CIDChanger.csproj.GenerateResource.Cache
+C:\Users\FST_F\source\repos\CIDChanger\CIDChanger\obj\Debug\CIDChanger.csproj.CoreCompileInputs.cache
+C:\Users\FST_F\source\repos\CIDChanger\CIDChanger\obj\Debug\CIDChanger.exe
+C:\Users\FST_F\source\repos\CIDChanger\CIDChanger\obj\Debug\CIDChanger.pdb
